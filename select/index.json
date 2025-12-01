@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Harmonia",
+  "base_artist": "石原夏織",
+  "createdAt": "2025-12-01T12:36:42.116549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harmonia",
+      "artist": "Liturgy",
+      "has_synced": false,
+      "path": "select/01_Harmonia_Liturgy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Harmonia",
+      "artist": "Cass McCombs",
+      "has_synced": true,
+      "path": "select/02_Harmonia_Cass_McCombs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Harmonia",
+      "artist": "RYTHEM",
+      "has_synced": true,
+      "path": "select/03_Harmonia_RYTHEM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Harmonia",
+      "artist": "RYTHEM",
+      "has_synced": false,
+      "path": "select/04_Harmonia_RYTHEM.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "harmonia",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/05_harmonia_Rita.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Harmonia",
+      "artist": "RYTHEM",
+      "has_synced": true,
+      "path": "select/06_Harmonia_RYTHEM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Harmonia",
+      "artist": "Suzuko Mimori",
+      "has_synced": false,
+      "path": "select/07_Harmonia_Suzuko_Mimori.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Harmonia",
+      "artist": "ATSUMI UEDA",
+      "has_synced": false,
+      "path": "select/08_Harmonia_ATSUMI_UEDA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Perfeita harmonia",
+      "artist": "Zeca Pagodinho",
+      "has_synced": true,
+      "path": "select/09_Perfeita_harmonia_Zeca_Pagodinho.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Harmonia ～見果てぬ地へ～",
+      "artist": "志方 あきこ",
+      "has_synced": false,
+      "path": "select/pl_01_Harmonia_~見果てぬ地へ~_志方_あきこ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Harmonia vita",
+      "artist": "志方 あきこ",
+      "has_synced": false,
+      "path": "select/pl_02_Harmonia_vita_志方_あきこ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Harmonia's Dream",
+      "artist": "志方 あきこ",
+      "has_synced": false,
+      "path": "select/pl_03_Harmonia's_Dream_志方_あきこ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Harmonia",
+      "artist": "志方 あきこ",
+      "has_synced": false,
+      "path": "select/pl_04_Harmonia_志方_あきこ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Harmonia vita",
+      "artist": "志方 あきこ",
+      "has_synced": false,
+      "path": "select/pl_05_Harmonia_vita_志方_あきこ.txt"
+    }
+  ]
+}
